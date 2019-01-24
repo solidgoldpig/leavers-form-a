@@ -1,0 +1,21 @@
+{
+  "_id": "page.date",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.date--date.auto_name__2",
+      "_type": "date",
+      "label": "Official leave date",
+      "name": "leave_date"
+    },
+    {
+      "_id": "page.date--date.auto_name__5",
+      "_type": "date",
+      "hint": "To return laptop and other equipment",
+      "label": "Last day in office",
+      "name": "last_day"
+    }
+  ],
+  "heading": "Leaving details",
+  "url": "date"
+}
